@@ -1,7 +1,5 @@
 <?php
-namespace Duitku\Vabca\Helper\Duitku;
-// include_once('ApiRequestor.php');
-use Duitku\Vabca\Helper\Duitku\Duitku_Vabca_ApiRequestor;
+include_once('ApiRequestor.php');
 class Duitku_Vabca_Core {
 
   public static function getRedirectionUrl($baseUrl, $params)

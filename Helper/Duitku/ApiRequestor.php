@@ -1,5 +1,4 @@
 <?php
-namespace Duitku\Vabca\Helper\Duitku;
 
 class Duitku_Vabca_ApiRequestor {
 
